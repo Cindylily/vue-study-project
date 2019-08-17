@@ -1,0 +1,8 @@
+{
+  "presets": [
+    "env" // 
+  ],
+  "plugins": [
+    "transfrom-vue-jsx" // 支持jsx语法
+  ]
+}
