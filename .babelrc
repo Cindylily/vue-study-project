@@ -3,6 +3,6 @@
     "env" // 
   ],
   "plugins": [
-    "transfrom-vue-jsx" // 支持jsx语法
+    "transform-vue-jsx" // 支持jsx语法
   ]
 }
